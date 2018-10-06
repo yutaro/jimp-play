@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/yutaro/jimp-play#readme",
   "dependencies": {
-    "jimp": "^0.5.3"
+    "jimp": "^0.5.3",
+    "tinycolor2": "^1.4.1"
   }
 }
