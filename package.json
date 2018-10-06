@@ -1,0 +1,22 @@
+{
+  "name": "jimp-play",
+  "version": "1.0.0",
+  "description": "jimpで遊んでみる",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutaro/jimp-play.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yutaro/jimp-play/issues"
+  },
+  "homepage": "https://github.com/yutaro/jimp-play#readme",
+  "dependencies": {
+    "jimp": "^0.5.3"
+  }
+}
